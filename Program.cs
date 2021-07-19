@@ -10,7 +10,7 @@ namespace AG01_Frases_9B_II_2020
     {
         static void Main()
         {
-            string cad_original = "Estamos en Esmeraldas";
+            string cad_original = "Estamos en Esmeraldas tierra verde del Ecuador";
             string mejor_individuo;
 
             Console.WriteLine("Ingrese el total de individuos");
